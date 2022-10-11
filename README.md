@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **neerajkumar7388011@gmail.com**
 
-- 📄 Know about my experiences [I have done internship in Django at Mohali, Chandigarh](I have done internship in Django at Mohali, Chandigarh)
+- 📄 Know about my experiences [I have done internship in Django at Mohali, Chandigarh]
 
 - ⚡ Fun fact **I am fast and efficient Learner**
 
