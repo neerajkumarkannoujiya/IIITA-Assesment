@@ -1,3 +1,4 @@
+<div style="margin:0;">
 <img width="100%" heigth="100px" src="https://diasinfotech.com/wp-content/uploads/2021/08/webdevelopment.jpg">
 <h1 align="center">Hi 👋, I'm Neeraj Kumar Kannoujiya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -47,3 +48,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajkumar73880&show_icons=true&locale=en" alt="neerajkumar73880" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar73880&" alt="neerajkumar73880" /></p>
+</div>
