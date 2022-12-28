@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neerajkumar73880](https://github.com/Neerajkumar73880)
 
-- 📝 I regularly write articles on [https://portfolio-production-a60b.up.railway.app/]
+- 📝 I regularly write articles on https://portfolio-production-a60b.up.railway.app
 
 - 💬 Ask me about **Django , Java**
 
