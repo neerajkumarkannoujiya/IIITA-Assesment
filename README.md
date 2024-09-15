@@ -1,5 +1,4 @@
 <div style="margin:0;">
-<img width="100%" heigth="100px" src="https://diasinfotech.com/wp-content/uploads/2021/08/webdevelopment.jpg">
 <h1 align="center">Hi 👋, I'm Neeraj Kumar Kannoujiya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
