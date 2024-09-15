@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Reliable Rooms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Neerajkumar73880](https://github.com/Neerajkumar73880)
+- 👨‍💻 All of my projects are available at [https://github.com/neerajkumarkannoujiya](https://github.com/neerajkumarkannoujiya)
 
 - 📝 I regularly write articles on https://portfolio-production-a60b.up.railway.app
 
@@ -49,9 +49,9 @@
 <!--  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> -->
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkumar73880&show_icons=true&locale=en&layout=compact" alt="neerajkumar73880" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkumarkannoujiya&show_icons=true&locale=en&layout=compact" alt="neerajkumarkannoujiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajkumar73880&show_icons=true&locale=en" alt="neerajkumar73880" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajkumarkannoujiya&show_icons=true&locale=en" alt="neerajkumarkannoujiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumar73880&" alt="neerajkumar73880" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajkumarkannoujiya&" alt="neerajkumarkannoujiya" /></p>
 </div>
